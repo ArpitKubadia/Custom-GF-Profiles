@@ -1,0 +1,15 @@
+
+{
+"flags": "-Prohi",
+"patterns": [
+
+"template=",
+"preview=",
+"id=",
+"view=",
+"activity=",
+"name=",
+"content=",
+"redirect="
+]
+}
